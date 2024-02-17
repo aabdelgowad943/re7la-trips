@@ -1,27 +1,24 @@
-# Re7laFrontend
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Re7la — Mozilla Firefox 15_2_2024 9_34_05 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/9c824d65-490b-4400-aded-f17382ed576c)
+![Re7la — Mozilla Firefox 15_2_2024 9_33_50 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/2628b2bd-a500-48e0-a324-92a770cf7ca5)
+![Re7la — Mozilla Firefox 15_2_2024 9_33_35 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/233ad75a-73c3-4661-94f2-06d6a9d8976c)
+![Re7la — Mozilla Firefox 15_2_2024 9_33_19 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/2a5701e0-f5ce-4d0f-b358-805ff9770b78)
+![Re7la — Mozilla Firefox 15_2_2024 9_33_08 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/bb0f9d1a-19c3-474b-9706-484736524dee)
+![Re7la — Mozilla Firefox 15_2_2024 9_32_46 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/5f1629ab-934f-4a4c-9882-6dba723a9bba)
+![Re7la — Mozilla Firefox 15_2_2024 9_32_41 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/998d7ffb-855c-4864-a90a-955d87b4dfc9)
+![Re7la — Mozilla Firefox 15_2_2024 9_32_25 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/85dc70cd-22a5-4602-af9f-2cb01e85f952)
+![Re7la — Mozilla Firefox 15_2_2024 9_32_17 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/53a8ea37-f713-4c84-9a91-4a2093b7db8c)
+![Re7la — Mozilla Firefox 15_2_2024 9_32_12 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/8f87f5e5-f3b5-434c-a8ae-88aeac755b84)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_53 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/7a2e5eb1-43db-42bc-ba6e-97878e465be3)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_44 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/6375bd5c-e1b9-454b-a665-d80d7fad3e47)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_37 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/04323554-a0dc-45e2-ba09-5e3ff222ba30)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_24 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/e0b73ecb-77b4-4fdb-93a9-2c0eb35f7a9c)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_12 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/06c2e3c7-9260-490f-bead-e25975d3fa8a)
+![Re7la — Mozilla Firefox 15_2_2024 9_31_01 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/6ebccff6-d1d3-4c5f-86c9-555ab2319a05)
+![Re7la — Mozilla Firefox 15_2_2024 9_30_53 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/55ba14e5-0220-4395-af30-7cffafb34656)
+![Re7la — Mozilla Firefox 15_2_2024 9_30_46 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/bcc91730-f19a-4825-8eeb-e9666faa8845)
+![Re7la — Mozilla Firefox 15_2_2024 9_30_29 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/d79c9b25-7582-4292-b946-b99d64a74749)
+![Re7la — Mozilla Firefox 15_2_2024 9_29_51 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/b97ac401-b514-44e5-b8c5-13b5702c8a68)
+![Re7la — Mozilla Firefox 15_2_2024 9_29_44 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/f7c5e0eb-680f-4778-a951-2d29a8abd115)
+![Re7la — Mozilla Firefox 15_2_2024 9_29_20 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/8447489c-5a24-4ea9-9b84-c8b3f52cff2a)
+![Re7la — Mozilla Firefox 15_2_2024 9_28_07 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/bb62753d-12ec-4d00-86f4-3aa5f72b26f6)
+![Re7la — Mozilla Firefox 15_2_2024 9_34_15 م](https://github.com/aabdelgowad943/re7la-trips/assets/131953551/da3306c7-2667-4a7f-bc7f-f012cb510aad)
